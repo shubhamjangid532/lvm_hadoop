@@ -5,7 +5,7 @@
 
 <configuration>
 <property>
-<name>dfs.data.dir</name>
-<value>/newdn</value>
+<name>dfs.name.dir</name>
+<value>/nn</value>
 </property>
 </configuration>
